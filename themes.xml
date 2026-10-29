@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Zentra" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">#050B1F</item>
+        <item name="android:navigationBarColor">#050B1F</item>
+    </style>
+</resources>
